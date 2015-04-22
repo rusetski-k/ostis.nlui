@@ -1,0 +1,7 @@
+natural_language_ui
+<- sc_node_not_relation; ui_external_languages;
+=> nrel_main_idtf: 
+	[Естественно-языковой ПИ] (* <- lang_ru;; *);
+	[Natural language UI] (* <- lang_en;; *);;
+
+

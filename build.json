@@ -1,0 +1,10 @@
+{
+	"sources": 
+	[
+    "src/nlui.js"
+    ],
+	
+	"component": "src/nlui-component.js",
+
+	"target": "static/components/js/nlui/nlui.js"
+}

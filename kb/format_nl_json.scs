@@ -1,0 +1,15 @@
+format_nl_json
+<- sc_node_not_relation;
+<- format;
+=> nrel_main_idtf:
+[формат естественный язык (json)]
+(*
+<- lang_ru;;
+*);
+=> nrel_main_idtf:
+[format natural language (json)]
+(*
+<- lang_en;;
+*);
+=> nrel_mimetype:
+[application/json];;
